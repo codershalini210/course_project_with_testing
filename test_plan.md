@@ -17,6 +17,8 @@ Expected result : Http 200 is returned and the correct course details are displa
 requirment : A course must have a tile and des
 Screnario : validate a form with complete data and another with the missing required fieds
 Expected result : Complete data is valid : missing required data is invalid 
+//////////////////////////////////////
+below test cases are not performed
 
 ## TC05 : Dashboard while signed out
 Requirment : Only authenticated users can access the dashboard
